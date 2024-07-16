@@ -35,6 +35,15 @@ This project is a Discord bot designed to provide motivational messages and task
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+### Branch Protection
+
+Please note that both the `main` and `dev` branches are protected:
+
+- The `main` branch is protected due to production deployment actions.
+- The `dev` branch is also protected for development stability.
+
+When contributing, please create a new feature branch from `dev`, make your changes there, and then create a pull request to merge into `dev`.
+
 ## License
 
 This project is licensed under the MIT License—see the [LICENSE](LICENSE) file for details.
