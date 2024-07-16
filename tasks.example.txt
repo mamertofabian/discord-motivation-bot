@@ -1,0 +1,26 @@
+<TASK>
+<DESCRIPTION>
+Complete the project presentation for the upcoming team meeting.
+</DESCRIPTION>
+<BACKGROUND_INFO>
+I tend to procrastinate on preparing presentations. The deadline is approaching, and I need motivation to start and finish this task.
+</BACKGROUND_INFO>
+</TASK>
+
+<TASK>
+<DESCRIPTION>
+Exercise for 30 minutes every day this week.
+</DESCRIPTION>
+<BACKGROUND_INFO>
+I've been trying to establish a consistent exercise routine but often find excuses to skip workouts.
+</BACKGROUND_INFO>
+</TASK>
+
+<TASK>
+<DESCRIPTION>
+Learn a new programming language by completing an online course.
+</DESCRIPTION>
+<BACKGROUND_INFO>
+I'm excited about expanding my skill set, but I sometimes struggle with maintaining focus on self-paced learning.
+</BACKGROUND_INFO>
+</TASK>
