@@ -47,4 +47,5 @@ jobs:
             
             docker run -d --name codefrost-discord-motivation-bot \
             --env-file .env \
+            -v ~/tasks.txt:/app/tasks.txt \
             atomrem/codefrost-discord-motivation-bot:latest

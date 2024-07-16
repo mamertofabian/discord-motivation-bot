@@ -15,5 +15,8 @@ RUN yarn install --frozen-lockfile
 # Copy local code to the container image.
 COPY . ./
 
+# Copy tasks.txt file
+COPY tasks.txt ./
+
 # Start the application
 CMD ["yarn", "start"]
